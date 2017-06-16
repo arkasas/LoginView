@@ -1,9 +1,7 @@
 //
 //  ATextField.swift
-//  gymnas.io
 //
 //  Created by Arek on 19.11.2016.
-//  Copyright © 2016 gymnas.io. All rights reserved.
 //
 
 import UIKit
